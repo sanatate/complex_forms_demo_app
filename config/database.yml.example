@@ -1,0 +1,13 @@
+development:
+  adapter: mysql
+  encoding: utf8
+  database: complex_form_development
+  username: <%= ENV['USER'] %>
+  password:
+
+test:
+  adapter: mysql
+  encoding: utf8
+  database: complex_form_test
+  username: <%= ENV['USER'] %>
+  password:
