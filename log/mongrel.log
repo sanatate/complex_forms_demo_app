@@ -169,3 +169,4 @@
 ** Rails signals registered.  HUP => reload (without restart).  It might not work well.
 ** Mongrel 1.1.4 available at 0.0.0.0:3060
 ** Writing PID file to log/mongrel.pid
+** TERM signal received.
