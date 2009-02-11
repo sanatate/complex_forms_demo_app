@@ -1,3 +1,23 @@
+= THIS APP IS OLD AND NO LONGER APPLIES = 
+
+Please see the built-in nested attribute hashes in rails 2.3:
+
+http://ryandaigle.com/articles/2009/2/1/what-s-new-in-edge-rails-nested-attributes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 = Welcome to the Complex Forms Demo App
 
 == Installation
